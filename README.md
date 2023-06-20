@@ -1,4 +1,4 @@
-<h1 align="center">Hello, Everyone! <img src="https://avatars.githubusercontent.com/u/84591662?v=4" width="28px" alt="👋"></h1>
+<h1 align="center">Hello, Everyone! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
 
 <p align="center">
     <b>Welcome to my GitHub!</b><br><br>
