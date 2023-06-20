@@ -10,10 +10,13 @@
     <a href="https://www.linkedin.com/in/amanpawar1/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
+    <a href="https://twitter.com/pawaraman00021">
+        <img src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter" alt="Twitter">
+    </a>
     <a href="mailto:pawaraman00021@gmail.com">
         <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
     </a>
-    <a href="https://www.kaggle.com/AmanPawar9">
+    
 </p>
 
 ### Languages
